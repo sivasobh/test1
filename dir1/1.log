@@ -2,5 +2,3 @@ The touch command is a standard command used in UNIX/Linux operating system whic
 
 cat command: It is used to create the file with content.
 touch command: It is used to create a file without any content. The file created using touch command is empty. This command can be used when the user doesn’t have data to store at the time of file creation.
-Using touch Command
-Initially, we are in home directory and this can be checked using the pwd command. Checking the existing files using command ls and then long listing command(ll) is used to gather more details about existing files. As you can see in the below figure there is no existing files.
